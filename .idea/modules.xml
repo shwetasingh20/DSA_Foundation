@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D- array/2D- array.iml" filepath="$PROJECT_DIR$/2D- array/2D- array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA 1.iml" filepath="$PROJECT_DIR$/.idea/DSA 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function and array/Function and array.iml" filepath="$PROJECT_DIR$/Function and array/Function and array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Function and array 1/Function and array 1.iml" filepath="$PROJECT_DIR$/Function and array 1/Function and array 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Getting Started/Getting Started.iml" filepath="$PROJECT_DIR$/Getting Started/Getting Started.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern/latestaterpattern/latestaterpattern.iml" filepath="$PROJECT_DIR$/Pattern/latestaterpattern/latestaterpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leet code/leet code.iml" filepath="$PROJECT_DIR$/leet code/leet code.iml" />
+    </modules>
+  </component>
+</project>
