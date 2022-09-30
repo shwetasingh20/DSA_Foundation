@@ -8,7 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Function and array 1/Function and array 1.iml" filepath="$PROJECT_DIR$/Function and array 1/Function and array 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Getting Started/Getting Started.iml" filepath="$PROJECT_DIR$/Getting Started/Getting Started.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern/Pattern.iml" filepath="$PROJECT_DIR$/Pattern/Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contest/contest.iml" filepath="$PROJECT_DIR$/contest/contest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pattern/latestaterpattern/latestaterpattern.iml" filepath="$PROJECT_DIR$/Pattern/latestaterpattern/latestaterpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/leet code/leet code.iml" filepath="$PROJECT_DIR$/leet code/leet code.iml" />
     </modules>
